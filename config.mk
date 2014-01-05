@@ -4,7 +4,7 @@ VERSION = 1.3
 # Customize below to fit your system
 
 # paths
-PREFIX = /usr/local
+PREFIX = $(HOME)
 MANPREFIX = ${PREFIX}/share/man
 
 # includes and libs
